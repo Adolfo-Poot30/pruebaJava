@@ -57,7 +57,7 @@ public class AgregarProductosFrame extends javax.swing.JFrame {
             }
         });
 
-        cleanjButton2.setText("Clean");
+        cleanjButton2.setText("Clear");
         cleanjButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cleanjButton2ActionPerformed(evt);
